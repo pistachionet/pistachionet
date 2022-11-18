@@ -1,6 +1,6 @@
 # Navid Misaghian :wave:
 
-📈 **Reach out at: https//navid.buzz/**
+📈 **Check out my personal [protfoilio](https//navid.buzz/)**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pistachionet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
