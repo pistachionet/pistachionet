@@ -2,9 +2,8 @@
 
 📈 **Check out my personal [portfolio](https://navid.buzz/)**
 
+![Screen Shot 2022-11-17 at 11 18 14 PM](https://user-images.githubusercontent.com/78292140/202615820-c145686d-ddf8-487a-a017-678a150ad181.png)
 
-View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
-* [Your GitHub Pages URL and adding preview to your README.md](/least-github-pages/add-github-pages-preview.html)
 
 
 <p>
