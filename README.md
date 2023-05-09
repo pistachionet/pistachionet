@@ -1,6 +1,6 @@
 # Navid Misaghian :wave:
 
-📈 **Check out my Personal [Portfolio](https://navid.buzz/)**
+📈 **Check out my Personal [Portfolio](https://navid.contact/)**
 
 ![Screen Shot 2022-11-17 at 11 18 14 PM](https://user-images.githubusercontent.com/78292140/202615820-c145686d-ddf8-487a-a017-678a150ad181.png)
 
