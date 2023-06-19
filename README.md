@@ -18,5 +18,5 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=pistachionet" alt="pistachionet"/>
+	<img src="https://komarev.com/ghpvc/?username=pistachionet&color=lightgrey&label=Cool Lads Counter 😎" alt="pistachionet"/>
 </p>
